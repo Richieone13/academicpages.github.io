@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist for [L&Q](https://www.lqgroup.org.uk/), where I'm helping L&Q better serve our business usign data science from automating dynamic reporting and applying statistics to solve underlying issues impacting the business.
+I am a Data Scientist for [L&Q](https://www.lqgroup.org.uk/), where I'm helping L&Q better serve the business using data science from: automating dynamic reporting and applying statistics to solve underlying issues impacting the business.
 
 Previously I worked in analytical roles at Jacobs a Forture 500 company and I enjoy contributing towards positive business impact.
 
