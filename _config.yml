@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richie Wong / Data Scienctist"
+title                    : "Richie Wong"
 title_separator          : "-"
 name                     : &name "Richie Wong"
 description              : &description "Data Scienctist"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Richie Wong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scienctist"
   location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
