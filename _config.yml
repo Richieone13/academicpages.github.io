@@ -85,7 +85,7 @@ author:
   bio              : "Data Scienctist"
   location         : "London, UK"
   employer         : "L&Q"
-  Links:
+  links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/richieone"
