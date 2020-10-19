@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist for [L&Q](https://www.lqgroup.org.uk/), where I'm helping L&Q better serve the business using data science from: automating dynamic reporting and applying statistics to solve underlying issues impacting the business.
+I am a Data Scientist for [L&Q](https://www.lqgroup.org.uk/), where I'm helping L&Q better serve the business using data science from: automating dynamic reporting and applying statistics to solving underlying issues impacting the business.
 
-Previously I worked in analytical roles at Jacobs a Forture 500 company and I enjoy contributing towards positive business impact.
+Previously I worked in analytical roles at Jacobs a Fortune 500 company and I enjoy contributing towards a positive business impact.
 
-I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/). I am keen member at [Kaggle](https://www.kaggle.com/richieone13) and enjoy keeping up with the AI applications and how we can benefit towards society. These include A/B testing, training ML models for supervised, unsupervised learning. 🤖💬
+I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/). I am keen a member at [Kaggle](https://www.kaggle.com/richieone13) and enjoy keeping up with the AI applications and how we can benefit society. These include A/B testing, training ML models for supervised, unsupervised learning. 🤖💬
 
-Currently I'm studying for the AWS Certified Machine Learning Specialty 2020 Exam [link](https://aws.amazon.com/certification/certified-machine-learning-specialty/).😄
+Currently I'm studying for the AWS Certified Machine Learning Specialty 2020 Exam [link](https://aws.amazon.com/certification/certified-machine-learning-specialty/)😄
