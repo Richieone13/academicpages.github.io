@@ -14,4 +14,4 @@ Previously I worked in analytical roles at Jacobs a Fortune 500 company and I en
 
 I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/). I am keen a member at [Kaggle](https://www.kaggle.com/richieone13) and enjoy keeping up with the AI applications and how we can benefit society. These include A/B testing, training ML models for supervised, unsupervised learning. 🤖💬
 
-Currently I'm studying for the AWS Certified Machine Learning Specialty 2020 [Exam](https://aws.amazon.com/certification/certified-machine-learning-specialty/) 😄
+Currently I'm studying for the [AWS Certified Machine Learning Specialty 2020 Exam](https://aws.amazon.com/certification/certified-machine-learning-specialty/) 😄
