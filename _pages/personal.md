@@ -10,4 +10,4 @@ When I'm not working, I have a number of hobbies. I enjoy gaming with friends. I
 
 Before the lockdown my last holiday was in New York, where I really enjoy eating the varierty of different pizzas and appreicating the famous architecture.
 
-<img align="right" src="https://github.com/Richieone13/richieone13.github.io/blob/gh-pages/images/cycling-trip.jpeg">
+<img align="right" src="https://github.com/Richieone13/richieone13.github.io/blob/gh-pages/images/cycling-trip.jpg">
