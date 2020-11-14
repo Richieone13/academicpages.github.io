@@ -6,6 +6,9 @@ main:
         
   - title: "CV"
     url: https://www.dropbox.com/s/6940kva8puk73kk/richie-wong-cv.pdf?dl=0
+
+  - title: "My Stack"
+    url: https://stackshare.io/richieone13/my-stack
     
   - title: "Personal"
     url: /personal/
