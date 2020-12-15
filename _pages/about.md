@@ -13,3 +13,5 @@ I am a Data Scientist for [L&Q](https://www.lqgroup.org.uk/), where I'm helping 
 Previously I worked in analytical roles at Jacobs a Fortune 500 company. I enjoy investigating and exploring data and conveying into meaningful insight, for decision making. 
 
 I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/). I am keen a member at [Kaggle](https://www.kaggle.com/richieone13) and enjoy keeping up with the AI applications and how we can benefit society. These include A/B testing, training ML models for supervised, unsupervised learning. 🤖💬
+
+<img align="right" src="https://github.com/Richieone13/richieone13.github.io/blob/gh-pages/images/cycling-trip.jpg">
