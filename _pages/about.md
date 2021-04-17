@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data professional with experience developing data & analytics capabilities in transformational organisations and scale-ups teams. I am a Business Intelligence Analyst for [L&Q](https://www.lqgroup.org.uk/), I help businesses innovate by improving organization wide decision making capabilities with data and insight.
+Data professional with experience developing data & analytics capabilities in transformational organisations and scale-ups teams. I'm currently a Business Intelligence Analyst at [L&Q](https://www.lqgroup.org.uk/), I help businesses innovate by improving organization wide decision making capabilities with data and insight.
 
 Previously I worked in analytical roles at Jacobs, a Fortune 500 company at an engineering consultancy, I have also worked with Network Rail which I built a self service BI dashboards for their infrastructure assets. I enjoy investigating and exploring data and conveying meaningfu insight, for decision making and value with business units and I have a sound technical knowledge and working with product and data engineering teams.
 
