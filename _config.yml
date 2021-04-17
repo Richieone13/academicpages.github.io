@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Richie Wong"
 title_separator          : "-"
 name                     : &name "Richie Wong"
-description              : &description "Data Scienctist"
+description              : &description "Implementing Data Analytics in Products and Business | Provide Solutions using Data"
 url                      : https://richieone13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/Richieone13/richieone13.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Richie Wong"
   avatar           : "profile.png"
-  bio              : "Data Scientist at L&Q"
+  bio              : "Implementing Data Analytics in Products and Business | Provide Solutions using Data"
   location         : "London, UK"
   pubmed           : 
   googlescholar    :
