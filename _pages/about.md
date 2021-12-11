@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Richie Wong, I recently joined as a Analytics Engineer at [Checkout.com](https://www.checkout.com/) a payment provider for e-commerce businesses. A bit about me, I grew up in Bristol and have been living in London for the past 6 years. I am a big advocate to the modern data stack!
+Hi! I'm Richie Wong, I recently joined as a Analytics Engineer at [Checkout.com](https://www.checkout.com/) a payment provider for e-commerce businesses. A bit about me, I grew up in Bristol and have been living in London for the past 6 years. I am a huge advocate of the modern data stack!
 
 I specialise in transforming data, gathering requirements and building reports and dashboards. Throughout my career I have helped companies by built scalable and manageable data products. I ensured they have trusted data which is something that I am really passionate in.
 
