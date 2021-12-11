@@ -3,13 +3,17 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Data professional with experience developing data & analytics capabilities in transformational organisations and scale-ups teams. I'm currently a Business Intelligence Analyst at [L&Q](https://www.lqgroup.org.uk/), I help businesses innovate by improving organization wide decision making capabilities with data and insight.
+Hi! I'm Richie Wong, I recently joined as a Analytics Engineer at Checkout.com. A bit about me, I grew up in Bristol and have been living in London for the past 6 years.
 
-Previously I worked in analytical roles at Jacobs, a Fortune 500 company at an engineering consultancy, I have also worked with Network Rail which I built a self service BI dashboards for their infrastructure assets. I enjoy investigating and exploring data and conveying meaningfu insight, for decision making and value with business units and I have a sound technical knowledge and working with product and data engineering teams.
+Prior to that I was working at a Fintech company called GetGround who are a property investment platform where I was a Senior BI analyst. I specialise in transforming data, gathering requirements and building reports and dashboards. Throughout my career I have helped companies by built scalable and manageable data products. I ensured they have trusted data which is something that I am really passionate in.
 
-I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/). I am keen a member at [Kaggle](https://www.kaggle.com/richieone13) and enjoy participating in the wider data community and working with data practices.
+Previously I worked in analytical roles at Jacobs, a Fortune 500 company at an engineering consultancy, I have also worked with Network Rail where I have built self service BI dashboards for their infrastructure assets. I have a masters in Civil Engineering at [Loughborough University](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/).
+
+Whilst living in London I love trying out different street food and cycling around exploring different areas. I am also a keen doing CrossFit and participate in a local basketball league.
+
+Feel free to reach out to me through LinkedIn, and you can find me on [Medium @richiewong](https://medium.com/@richiewong) where I'll be blogging about data and tech related.
